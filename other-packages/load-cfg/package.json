@@ -24,11 +24,11 @@
     "precommit": "lint-staged"
   },
   "dependencies": {
-    "@babel/core": "^7.5.5",
-    "@babel/preset-env": "^7.5.5",
-    "@babel/register": "^7.5.5",
+    "@babel/core": "^7.22.15",
+    "@babel/preset-env": "^7.22.15",
+    "@babel/register": "^7.22.15",
     "find-up": "^4.1.0",
     "fs-extra": "^8.1.0",
-    "lodash": "^4.17.14"
+    "lodash": "^4.17.21"
   }
 }

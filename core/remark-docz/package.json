@@ -25,8 +25,8 @@
     "test": "jest"
   },
   "dependencies": {
-    "@babel/generator": "^7.5.5",
-    "@babel/types": "^7.5.5",
+    "@babel/generator": "^7.22.15",
+    "@babel/types": "^7.22.15",
     "unist-util-remove": "^1.0.3",
     "unist-util-visit": "^1.4.1"
   }
